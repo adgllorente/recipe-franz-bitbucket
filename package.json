@@ -1,0 +1,12 @@
+{
+  "id": "bitbucket",
+  "name": "Bitbucket",
+  "version": "1.0.0",
+  "description": "Bitbucket",
+  "main": "index.js",
+  "author": "Adrián Gómez - http://adgllorente.com",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://bitbucket.org/account/signin/"
+  }
+}
